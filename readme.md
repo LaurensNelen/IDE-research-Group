@@ -1,4 +1,4 @@
-## 6. Brackets
+# Brackets
 
 
 ![Brackets](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png)
@@ -33,7 +33,6 @@
 | HTML | :white_check_mark: |
 | CSS | :white_check_mark: |
 | Javascript | :white_check_mark: |
-| Pyhton | :x: |
 
 
 ## Negatives:
