@@ -5,6 +5,9 @@
 
 [Click this link to go to brackets.io](http://brackets.io/)
 
+[Brackets preview](https://gyazo.com/1dccbdee4c5a191be79e3422017b3015)
+
+
 > The free Brackets software is a must try tool for front-end developers.
 
 :star: :star: :star: :star: :star: by grex about Brackets on March 2, 2018
